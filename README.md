@@ -1,1 +1,1 @@
-# DB2-Databse-Connection
+# DB2 Database Connection
